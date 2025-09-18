@@ -48,3 +48,4 @@ GBC Mining is a cloud-based cryptocurrency mining platform designed for scalabil
 - [biosite](https://bio.site/gbcmining)
 - [linktr](https://linktr.ee/gbcmi)
 - [aboutme](https://aboutme.style/gbcmining)
+- [pasarex](https://git.pasarex.com/gbcmining)
